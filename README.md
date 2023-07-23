@@ -20,7 +20,9 @@ my achievements and skills in the digital world.
     </a>
 </div>
 
-<h2 align="center"><strong><a href="https://cristianricardogallegosdiego.github.io/PolarSaurio_WebSite/" target="_blank">🚀 PolarSaurio Website</a></strong></h3>
+<div align="center">
+    <strong><a href="https://cristianricardogallegosdiego.github.io/PolarSaurio_WebSite/" target="_blank">🚀 PolarSaurio Website</a></strong>
+<div/>
 
 ---
 # Computer Scientist | Front-End Developer <img align=center src="img/emojis/flower.gif" alt="Flower GIF" width="50"/>
@@ -51,12 +53,13 @@ Education program at Alura Latam.
 ---
 # <img align=center src="img/emojis/like_two.gif" alt="Like GIF" width="50"/> GitHub Analytics
 
+![snake gif](https://github.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
 # Connect with me <img align=center src="img/emojis/world.gif" alt="World GIF" width="50"/>
 <div align="center">
-    <a target="_blank" href="linkedin.com/in/cristian-ricardo-gallegos-diego-087308212">
+    <a target="_blank" href="https://linkedin.com/in/cristian-ricardo-gallegos-diego-087308212">
         <img src="img/social_media/linkedIn.png" width="10%">
     </a>
     <a target="_blank" href="https://www.facebook.com/cristian.gallegos.9480?mibextid=ZbWKwL">
