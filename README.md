@@ -33,19 +33,41 @@ Education program at Alura Latam.
 
 ---
 # <img align=center src="img/emojis/laptop.gif" alt="Laptop Emoji" width="50"/> Languages & Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+**Frontend and Mobile Development**
 <div align="center">
-    <h2>Diseño </h2>
-    <img width="20" src="img/skills/figma.png" alt="Figma Image">
-    <img width="35" src="img/skills/html.png" alt="HTML Image">
-    <img width="25" src="img/skills/css.png" alt="CSS Image">
-    <img width="30" src="img/skills/javascript.png" alt="JavaScript Image">
+    <img width="7.5%" src="img/skills/figma.png" alt="Figma Image">
+    <img width="13.7%" src="img/skills/html.png" alt="HTML Image">
+    <img width="10%" src="img/skills/css.png" alt="CSS Image">
+    <img width="11.25%" src="img/skills/javascript.png" alt="JavaScript Image">
+    <img width="30%" src="img/skills/kotlin.png" alt="Kotlin Image">
+    <img width="13%" src="img/skills/android.png" alt="Android Image">
 </div>
+
+**Versatile Programming Languages**
+<div align="center">
+    <img width="15%" src="img/skills/java.png" alt="Java Image">
+    <img width="13%" src="img/skills/python.png" alt="Python Image">
+    <img width="13%" src="img/skills/c_sharp.png" alt="CSharp Image">
+</div>
+
+**Tools for Development and Version Control**
+<div align="center">
+    <img width="20%" src="img/skills/github.png" alt="Github Image">
+    <img width="20%" src="img/skills/gitlab.png" alt="GitLab Image">
+    <img width="11%" src="img/skills/linux.png" alt="Linux Image">
+</div>
+
+**Special Projects**
+<div align="center">
+    <img width="20%" src="img/skills/arduino.png" alt="Arduino Image">
+    <img width="35%" src="img/skills/unity.png" alt="Unity Image">
+</div>
+
 
 ---
 # Explore my badges in the ONE-Oracle Next Education Program <img align=center src="img/emojis/congratulations.gif" alt="Congratulations GIF" width="50"/>
-<div style="display: flex; justify-content: space-around">
+<div>
     <img src="img/one_oracle_next_education/badge_one.png" width="25%">
     <img src="img/one_oracle_next_education/badge_two.png" width="25%">
 </div>
