@@ -54,7 +54,7 @@ Education program at Alura Latam.
 # <img align=center src="img/emojis/like_two.gif" alt="Like GIF" width="50"/> GitHub Analytics
 
 ![snake gif](https://github.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/blob/output/github-contribution-grid-snake.svg)
 
 ---
 # Connect with me <img align=center src="img/emojis/world.gif" alt="World GIF" width="50"/>
