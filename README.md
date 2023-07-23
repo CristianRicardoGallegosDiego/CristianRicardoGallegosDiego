@@ -53,11 +53,15 @@ Education program at Alura Latam.
 ---
 # <img align=center src="img/emojis/like_two.gif" alt="Like GIF" width="50"/> GitHub Analytics
 
-![snake gif](https://github.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/blob/output/github-contribution-grid-snake.svg)
-![Snake animation](https://github.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/blob/output/github-contribution-grid-snake.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristianRicardoGallegosDiego&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristianRicardoGallegosDiego&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CristianRicardoGallegosDiego&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianRicardoGallegosDiego&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CristianRicardoGallegosDiego&theme=apprentice&tcOffset=8)
 
 ---
 # Connect with me <img align=center src="img/emojis/world.gif" alt="World GIF" width="50"/>
+
 <div align="center">
     <a target="_blank" href="https://linkedin.com/in/cristian-ricardo-gallegos-diego-087308212">
         <img src="img/social_media/linkedIn.png" width="10%">
