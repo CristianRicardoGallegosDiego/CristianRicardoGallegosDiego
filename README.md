@@ -89,15 +89,15 @@ Education program at Alura Latam.
 
 <div align="center">
     <a target="_blank" href="https://linkedin.com/in/cristian-ricardo-gallegos-diego-087308212">
-        <img src="img/social_media/linkedIn.png" width="5%">
+        <img src="img/social_media/linkedIn.png" width="10%">
     </a>
     <a target="_blank" href="https://www.facebook.com/cristian.gallegos.9480?mibextid=ZbWKwL">
-        <img src="img/social_media/facebook.png" width="5%">
+        <img src="img/social_media/facebook.png" width="10%">
     </a>
     <a target="_blank" href="https://www.youtube.com/@polar_byte">
-        <img src="img/social_media/youtube.png" width="8%">
+        <img src="img/social_media/youtube.png" width="13%">
     </a>
     <a target="_blank" href="https://www.instagram.com/criss.gallegoss/">
-        <img src="img/social_media/instagram.png" width="5%">
+        <img src="img/social_media/instagram.png" width="10%">
     </a>
 </div>
