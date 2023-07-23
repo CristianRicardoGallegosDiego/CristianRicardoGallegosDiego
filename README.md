@@ -43,6 +43,7 @@ Education program at Alura Latam.
     <img width="30%" src="img/skills/kotlin.png" alt="Kotlin Image">
     <img width="13%" src="img/skills/android.png" alt="Android Image">
 </div>
+<br>
 
 **Versatile Programming Languages**
 <div align="center">
@@ -50,6 +51,7 @@ Education program at Alura Latam.
     <img width="13%" src="img/skills/python.png" alt="Python Image">
     <img width="13%" src="img/skills/c_sharp.png" alt="CSharp Image">
 </div>
+<br>
 
 **Tools for Development and Version Control**
 <div align="center">
@@ -57,6 +59,7 @@ Education program at Alura Latam.
     <img width="20%" src="img/skills/gitlab.png" alt="GitLab Image">
     <img width="11%" src="img/skills/linux.png" alt="Linux Image">
 </div>
+<br>
 
 **Special Projects**
 <div align="center">
