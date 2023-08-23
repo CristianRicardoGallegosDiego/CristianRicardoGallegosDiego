@@ -69,7 +69,7 @@ Education program at Alura Latam.
 
 
 ---
-# Explore my badges in the ONE-Oracle Next Education Program <img align=center src="img/emojis/congratulations.gif" alt="Congratulations GIF" width="50"/>
+# Explore my badges in the ONE-Oracle Next Education Program<img align=center src="img/emojis/congratulations.gif" alt="Congratulations GIF" width="50"/>
 <div>
     <img src="img/one_oracle_next_education/badge_one.png" width="25%">
     <img src="img/one_oracle_next_education/badge_two.png" width="25%">
