@@ -1,10 +1,10 @@
 ![Banner](img/me/new_banner.png)
 <p align="center"> 
-    <a href="https://github.com/ArisGuimera">
+    <a href="https://github.com/CristianRicardoGallegosDiego">
         <img src="https://img.shields.io/github/followers/cristianricardogallegosdiego?style=social" alt="GitHub followers">
     </a>
     <img src="https://komarev.com/ghpvc/?username=cristianricardogallegosdiego&label=Profile%20views&color=0e75b6&style=flat" alt="cristianricardogallegosdiego" /> 
-    <a href="https://youtube.com/aristidevs?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/UCoA22hEW_RtGBHCELGm9Jjg">
         <img src="https://img.shields.io/youtube/channel/subscribers/UCoA22hEW_RtGBHCELGm9Jjg?style=social" alt="YouTube Channel Subscribers">
     </a>
 </p>
