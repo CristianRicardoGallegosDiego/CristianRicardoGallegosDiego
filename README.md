@@ -40,7 +40,7 @@ Education program at Alura Latam.
     <img width="13.7%" src="img/skills/html.png" alt="HTML Image">
     <img width="10%" src="img/skills/css.png" alt="CSS Image">
     <img width="11.25%" src="img/skills/javascript.png" alt="JavaScript Image">
-    <img width="30%" src="img/skills/kotlin.png" alt="Kotlin Image">
+    <img width="11%" src="img/skills/kotlin.png" alt="Kotlin Image">
     <img width="13%" src="img/skills/android.png" alt="Android Image">
 </div>
 <br>
