@@ -15,13 +15,13 @@ and awesome designs. I invite you to visit my website and let it amaze you with
 my achievements and skills in the digital world.
 
 <div align="center">
-    <a target="_blank" href="https://cristianricardogallegosdiego.github.io/PolarSaurio_WebSite/">
+    <a target="_blank" href="https://www.polarbyte.mx">
         <img src="img/me/webpage.png" width="80%">
     </a>
 </div>
 
 <div align="center">
-    <strong><a href="https://cristianricardogallegosdiego.github.io/PolarSaurio_WebSite/" target="_blank">🚀 PolarSaurio Website</a></strong>
+    <strong><a href="https://www.polarbyte.mx" target="_blank">🚀 PolarByte</a></strong>
 <div/>
 
 ---
@@ -36,28 +36,37 @@ Education program at Alura Latam.
 
 **Frontend and Mobile Development**
 <div align="center">
-    <img width="7.5%" src="img/skills/figma.png" alt="Figma Image">
-    <img width="13.7%" src="img/skills/html.png" alt="HTML Image">
-    <img width="10%" src="img/skills/css.png" alt="CSS Image">
-    <img width="11.25%" src="img/skills/javascript.png" alt="JavaScript Image">
-    <img width="11%" src="img/skills/kotlin.png" alt="Kotlin Image">
-    <img width="13%" src="img/skills/android.png" alt="Android Image">
+    <img width="7.5%" src="img/skills/figma.png" alt="Figma Image" />
+    <img width="13.7%" src="img/skills/html.png" alt="HTML Image" />
+    <img width="10%" src="img/skills/css.png" alt="CSS Image" />
+    <img width="11.25%" src="img/skills/javascript.png" alt="JavaScript Image" />
+    <img width="13%" src="img/skills/react_js.png" alt="ReactJS Image" />
+    <img width="11%" src="img/skills/kotlin.png" alt="Kotlin Image" />
+    <img width="13%" src="img/skills/android.png" alt="Android Image" />
 </div>
 <br>
 
 **Versatile Programming Languages**
 <div align="center">
-    <img width="15%" src="img/skills/java.png" alt="Java Image">
-    <img width="13%" src="img/skills/python.png" alt="Python Image">
-    <img width="13%" src="img/skills/c_sharp.png" alt="CSharp Image">
+    <img width="15%" src="img/skills/java.png" alt="Java Image" />
+    <img width="13%" src="img/skills/python.png" alt="Python Image" />
+    <img width="13%" src="img/skills/c_sharp.png" alt="CSharp Image" />
+</div>
+<br>
+
+**Database Management Systems**
+<div align="center">
+    <img width="15%" src="img/skills/postgresql.png" alt="PostgreSQL Image" />
+    <img width="30%" src="img/skills/mysql.png" alt="MySQL Image" />
 </div>
 <br>
 
 **Tools for Development and Version Control**
 <div align="center">
-    <img width="20%" src="img/skills/github.png" alt="Github Image">
-    <img width="20%" src="img/skills/gitlab.png" alt="GitLab Image">
-    <img width="11%" src="img/skills/linux.png" alt="Linux Image">
+    <img width="20%" src="img/skills/github.png" alt="Github Image"/>
+    <img width="20%" src="img/skills/gitlab.png" alt="GitLab Image"/>
+    <img width="11%" src="img/skills/linux.png" alt="Linux Image"/>
+    <img width="45%" src="img/skills/docker.png" alt="Docker Image"/>
 </div>
 <br>
 
@@ -71,8 +80,10 @@ Education program at Alura Latam.
 ---
 # Explore my badges in the ONE-Oracle Next Education Program<img align=center src="img/emojis/congratulations.gif" alt="Congratulations GIF" width="50"/>
 <div>
-    <img src="img/one_oracle_next_education/badge_one.png" width="25%">
-    <img src="img/one_oracle_next_education/badge_two.png" width="25%">
+    <img src="img/one_oracle_next_education/badge_one.png" width="25%" />
+    <img src="img/one_oracle_next_education/badge_two.png" width="25%" />
+    <img src="img/one_oracle_next_education/badge_three.png" width="25%" />
+    <img src="img/one_oracle_next_education/badge_four.png" width="25%" />
 </div>
 
 ---
@@ -84,20 +95,26 @@ Education program at Alura Latam.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianRicardoGallegosDiego&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CristianRicardoGallegosDiego&theme=apprentice&tcOffset=8)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ---
 # Connect with me <img align=center src="img/emojis/world.gif" alt="World GIF" width="50"/>
 
 <div align="center">
     <a target="_blank" href="https://linkedin.com/in/cristian-ricardo-gallegos-diego-087308212">
-        <img src="img/social_media/linkedIn.png" width="10%">
+        <img src="img/social_media/linkedIn.png" width="10%" />
     </a>
     <a target="_blank" href="https://www.facebook.com/cristian.gallegos.9480?mibextid=ZbWKwL">
-        <img src="img/social_media/facebook.png" width="10%">
+        <img src="img/social_media/facebook.png" width="10%" />
     </a>
     <a target="_blank" href="https://www.youtube.com/@polar_byte">
-        <img src="img/social_media/youtube.png" width="13%">
+        <img src="img/social_media/youtube.png" width="13%" />
     </a>
     <a target="_blank" href="https://www.instagram.com/criss.gallegoss/">
-        <img src="img/social_media/instagram.png" width="10%">
+        <img src="img/social_media/instagram.png" width="10%" />
     </a>
 </div>
