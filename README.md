@@ -80,10 +80,10 @@ Education program at Alura Latam.
 ---
 # Explore my badges in the ONE-Oracle Next Education Program<img align=center src="img/emojis/congratulations.gif" alt="Congratulations GIF" width="50"/>
 <div>
-    <img src="img/one_oracle_next_education/badge_one.png" width="25%" />
-    <img src="img/one_oracle_next_education/badge_two.png" width="25%" />
-    <img src="img/one_oracle_next_education/badge_three.png" width="25%" />
-    <img src="img/one_oracle_next_education/badge_four.png" width="25%" />
+    <img src="img/one_oracle_next_education/badge_one.png" width="20%" />
+    <img src="img/one_oracle_next_education/badge_two.png" width="20%" />
+    <img src="img/one_oracle_next_education/badge_three.png" width="20%" />
+    <img src="img/one_oracle_next_education/badge_four.png" width="20%" />
 </div>
 
 ---
@@ -94,7 +94,6 @@ Education program at Alura Latam.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CristianRicardoGallegosDiego&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianRicardoGallegosDiego&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CristianRicardoGallegosDiego&theme=apprentice&tcOffset=8)
-
 ![Snake animation](https://raw.githubusercontent.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/output/github-contribution-grid-snake-dark.svg)
 
 ---
