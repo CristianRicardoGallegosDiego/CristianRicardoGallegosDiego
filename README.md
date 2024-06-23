@@ -95,11 +95,7 @@ Education program at Alura Latam.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristianRicardoGallegosDiego&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CristianRicardoGallegosDiego&theme=apprentice&tcOffset=8)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/CristianRicardoGallegosDiego/CristianRicardoGallegosDiego/output/github-contribution-grid-snake-dark.svg)
 
 ---
 # Connect with me <img align=center src="img/emojis/world.gif" alt="World GIF" width="50"/>
